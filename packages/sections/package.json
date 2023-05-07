@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "@writy/sections",
+  "description": "Sections for Writy",
+  "license": "MIT",
+  "author": "Nirmalya Ghosh <nirmalya.email@gmail.com>",
+  "version": "0.0.1",
+  "main": "dist/index",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -cw",
+    "prepublishOnly": "yarn run build"
+  },
+  "types": "dist/index",
+  "peerDependencies": {
+    "react": "17.0.1",
+    "react-icons": "^4.1.0"
+  }
+}
