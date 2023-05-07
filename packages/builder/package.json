@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "@writy/builder",
+  "description": "Interface builder for Write",
+  "license": "MIT",
+  "author": "Nirmalya Ghosh <nirmalya.email@gmail.com>",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev -p 3002",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "@reduxjs/toolkit": "^1.5.0",
+    "@writy/sections": "*",
+    "focus-visible": "^5.2.0",
+    "framer-motion": "^7.0.0",
+    "js-beautify": "^1.13.0",
+    "js-file-download": "^0.4.12",
+    "jszip": "^3.5.0",
+    "next": "12.2.4",
+    "next-redux-wrapper": "7.0.5",
+    "react": "18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "18.2.0",
+    "react-frame-component": "^5.0.0",
+    "react-icons": "^4.1.0",
+    "react-redux": "^8.0.0"
+  }
+}
