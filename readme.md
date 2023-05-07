@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/6391763/103397026-621bde00-4b5c-11eb-9869-dfd839b52879.png" alt="Logo"/>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/NirmalyaGhosh_">
-    <img alt="Twitter: Nirmalya Ghosh" src="https://img.shields.io/twitter/follow/NirmalyaGhosh_.svg?style=social" target="_blank" />
-  </a>
-</p>
 
 This is an application for building HTML pages using Next.js, TailwindCSS and Chakra UI. This application consists of the following packages:
 
@@ -64,7 +55,7 @@ This application is the primary user-facing application. Once it’s up and runn
 ### 1. **Clone the application**
 
 ```sh
-git clone https://github.com/ghoshnirmalya/writy
+git clone https://github.com/shuvam2722/HTMLwebsitemaker
 ```
 
 ### 2. **Change directory**
@@ -97,13 +88,3 @@ Click on the button below to deploy the Builder package on Vercel. You'll need t
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fghoshnirmalya%2Fwrity&project-name=writy&repo-name=writy&demo-title=Writy&demo-description=Generate%20beautiful%20HTML%20files%20without%20writing%20any%20code.)
 
-## Other interesting repositories
-
-1. [Hasura Next.js Boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-trello-clone)
-2. [Strapi Next.js Boilerplate](https://github.com/ghoshnirmalya/nextjs-strapi-boilerplate)
-3. [React Search Box](https://github.com/ghoshnirmalya/react-search-box)
-4. [LinkedIn Clone using Create React App](https://github.com/ghoshnirmalya/linkedin-clone-react-frontend)
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
